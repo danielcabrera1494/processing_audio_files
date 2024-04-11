@@ -1,0 +1,4 @@
+plotnine==0.10.1
+numpy==1.22.3
+plotnine==0.10.1
+numpy==1.22.3
